@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-02-13T10:13:16.893Z</updated>
+    <updated>2021-02-15T09:24:15.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aone.zone"/>
     <link rel="self" href="https://aone.zone/atom.xml"/>
@@ -10,6 +10,78 @@
     <logo>https://aone.zone/images/avatar.png</logo>
     <icon>https://aone.zone/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个壹</rights>
+    <entry>
+        <title type="html"><![CDATA[markdown学习记录(>^~^<)💡]]></title>
+        <id>https://aone.zone/post/zhen-cang-wang-zhan-he-ji-greater~less/</id>
+        <link href="https://aone.zone/post/zhen-cang-wang-zhan-he-ji-greater~less/">
+        </link>
+        <updated>2021-02-15T09:22:53.000Z</updated>
+        <content type="html"><![CDATA[<p>💡</p>
+<h3 id="语法指南网址">语法指南网址</h3>
+<p>[来学习吧]（https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax）</p>
+<p>💡<br>
+💡</p>
+<h3 id="三级标题">三级标题</h3>
+<h2 id="二级标题">二级标题</h2>
+<blockquote>
+<p>这是引用</p>
+</blockquote>
+<h4 id="插入链接">插入链接</h4>
+<p>[一个壹]<br>
+（http://aone.zone）</p>
+<h4 id="插入图片">插入图片</h4>
+<p>![喵&gt;0&lt;]<br>
+(https://t7.baidu.com/it/u=2272690563,768132477&amp;fm=193&amp;f=GIF)</p>
+<p>** 这是粗体 **<br>
+<em>这是斜体</em></p>
+<hr>
+<p>这是分割线</p>
+<blockquote>
+<p>Was mich nicht umbringt, macht mich <strong>stärker</strong>.</p>
+</blockquote>
+<ul>
+<li>演示效果
+<ul>
+<li>按TAB键
+<ul>
+<li>继续按</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>这是引用文字的效果</p>
+</blockquote>
+<pre><code>```python
+def 点赞机():
+    if 文章不错：
+        return 点赞
+    else:
+        return 差评
+```
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>First Header</th>
+<th>Second Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+</tbody>
+</table>
+<p><s>要删除的文字</s></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【文字稿及内容提炼】【睡前消息235】春节求财：马前卒工作室的赚钱宣言]]></title>
         <id>https://aone.zone/post/wen-zi-gao-ji-nei-rong-ti-lian-shui-qian-xiao-xi-235-chun-jie-qiu-cai-ma-qian-zu-gong-zuo-shi-de-zhuan-qian-xuan-yan/</id>

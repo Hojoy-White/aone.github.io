@@ -1,24 +1,1244 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://aone.zone</id>
+    <id>https://aone.github.io</id>
     <title>一个壹</title>
-    <updated>2021-02-15T09:31:04.830Z</updated>
+    <updated>2021-02-17T09:55:45.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://aone.zone"/>
-    <link rel="self" href="https://aone.zone/atom.xml"/>
+    <link rel="alternate" href="https://aone.github.io"/>
+    <link rel="self" href="https://aone.github.io/atom.xml"/>
     <subtitle>Just Share</subtitle>
-    <logo>https://aone.zone/images/avatar.png</logo>
-    <icon>https://aone.zone/favicon.ico</icon>
+    <logo>https://aone.github.io/images/avatar.png</logo>
+    <icon>https://aone.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个壹</rights>
     <entry>
+        <title type="html"><![CDATA[Aone大事记]]></title>
+        <id>https://aone.github.io/post/aone-da-shi-ji/</id>
+        <link href="https://aone.github.io/post/aone-da-shi-ji/">
+        </link>
+        <updated>2021-02-17T08:17:14.000Z</updated>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th style="text-align:left">时间</th>
+<th style="text-align:left">事件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p>2021年02月17日（UTC+8）</p>
+<!-- more -->1256u
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021·02]]></title>
+        <id>https://aone.github.io/post/202102/</id>
+        <link href="https://aone.github.io/post/202102/">
+        </link>
+        <updated>2021-02-16T13:59:12.000Z</updated>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th><strong>壹</strong></th>
+<th><strong>贰</strong></th>
+<th><strong>叁</strong></th>
+<th><strong>肆</strong></th>
+<th><strong>伍</strong></th>
+<th><strong>陆</strong></th>
+<th><strong>日</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="#test">1</a></td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+</tr>
+<tr>
+<td>8</td>
+<td>9</td>
+<td>10</td>
+<td>11</td>
+<td>12</td>
+<td>13</td>
+<td>14</td>
+</tr>
+<tr>
+<td>15</td>
+<td>16</td>
+<td>17</td>
+<td>18</td>
+<td>19</td>
+<td>20</td>
+<td>21</td>
+</tr>
+<tr>
+<td>22</td>
+<td>23</td>
+<td>24</td>
+<td>25</td>
+<td>26</td>
+<td>27</td>
+<td>28</td>
+</tr>
+</tbody>
+</table>
+<p>1j<br>
+g';o<br>
+gbo<br>
+gb'</p>
+<p>bgio<br>
+bg</p>
+<p>g<br>
+b</p>
+<p>hph</p>
+<p>hph</p>
+<p>h</p>
+<p>hb</p>
+<p>h</p>
+<p>hb</p>
+<p>h</p>
+<ul>
+<li>anything <div id="test"></div ></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">一</th>
+<th style="text-align:left">二</th>
+<th style="text-align:left">三</th>
+<th style="text-align:left">四</th>
+<th style="text-align:left">五</th>
+<th style="text-align:left">六</th>
+<th style="text-align:left">日</th>
+<th style="text-align:left"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="#try">1</a></td>
+<td style="text-align:left">2</td>
+<td style="text-align:left">3</td>
+<td style="text-align:left">4</td>
+<td style="text-align:left">5</td>
+<td style="text-align:left">6</td>
+<td style="text-align:left">7</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">8</td>
+<td style="text-align:left">9</td>
+<td style="text-align:left">10</td>
+<td style="text-align:left">11</td>
+<td style="text-align:left">12</td>
+<td style="text-align:left">13</td>
+<td style="text-align:left">14</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">15</td>
+<td style="text-align:left">16</td>
+<td style="text-align:left">17</td>
+<td style="text-align:left">18</td>
+<td style="text-align:left">19</td>
+<td style="text-align:left">20</td>
+<td style="text-align:left">21</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">22</td>
+<td style="text-align:left">23</td>
+<td style="text-align:left">24</td>
+<td style="text-align:left">25</td>
+<td style="text-align:left">26</td>
+<td style="text-align:left">27</td>
+<td style="text-align:left">28</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">29</td>
+<td style="text-align:left">30</td>
+<td style="text-align:left">31</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+</tbody>
+</table>
+<p>上看看</p>
+<ul>
+<li>anything <div id="try"></div ></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网站合集]]></title>
+        <id>https://aone.github.io/post/wang-zhan-he-ji/</id>
+        <link href="https://aone.github.io/post/wang-zhan-he-ji/">
+        </link>
+        <updated>2021-02-15T15:21:55.000Z</updated>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th>First Header</th>
+<th>Second Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+</tbody>
+</table>
+<h1 id="主流"><em>主流</em></h1>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>地址</th>
+<th>简介</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>哔哩哔哩</td>
+<td><a href="https://www.bilibili.com/">bilibili</a></td>
+<td>学习</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>地址</th>
+<th>简介</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+<tr>
+<td>名称</td>
+<td>地址</td>
+<td>简介</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>https://topbook.cc/community</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【幻15 2021版】]]></title>
+        <id>https://aone.github.io/post/huan-15-2021-ban/</id>
+        <link href="https://aone.github.io/post/huan-15-2021-ban/">
+        </link>
+        <updated>2021-02-15T14:18:29.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://item.jd.com/10026185666323.html">幻15 2021版</a><br>
+https://jvod.300hu.com/vod/product/4859587a-af8e-4a30-8d89-5219f341f457/922a5bdb69ac49ca9738ce020158a48e.mp4?source=2&amp;h265=h265/18799/7f25ed0495ff4b8192b244be0added1f.mp4</p>
+<p>[音频]</p>
+<p>月刃无线版鼠标499.00<br>
+游侠RX红轴 104键759.00</p>
+<table>
+<thead>
+<tr>
+<th>First Header</th>
+<th>Second Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+<tr>
+<td>Content Cell</td>
+<td>Content Cell</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>名称</th>
+<th>价格</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>幻15</td>
+<td>13999</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[markdown学习记录(>^~^<)💡]]></title>
-        <id>https://aone.zone/post/zhen-cang-wang-zhan-he-ji-greater~less/</id>
-        <link href="https://aone.zone/post/zhen-cang-wang-zhan-he-ji-greater~less/">
+        <id>https://aone.github.io/post/zhen-cang-wang-zhan-he-ji-greater~less/</id>
+        <link href="https://aone.github.io/post/zhen-cang-wang-zhan-he-ji-greater~less/">
         </link>
         <updated>2021-02-15T09:22:53.000Z</updated>
         <content type="html"><![CDATA[<p>💡</p>
 <h3 id="语法指南网址">语法指南网址</h3>
-<p>[来学习吧]（https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax）</p>
+<p><a href="https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax">来学习吧</a></p>
 <p>💡<br>
 💡</p>
 <h3 id="三级标题">三级标题</h3>
@@ -27,15 +1247,19 @@
 <p>这是引用</p>
 </blockquote>
 <h4 id="插入链接">插入链接</h4>
-<p>[一个壹]<br>
-（http://aone.zone）</p>
+<p><a href="http://aone.zone">一个壹</a></p>
 <h4 id="插入图片">插入图片</h4>
-<p>![喵&gt;0&lt;]<br>
-(https://t7.baidu.com/it/u=2272690563,768132477&amp;fm=193&amp;f=GIF)</p>
+<figure data-type="image" tabindex="1"><img src="https://t7.baidu.com/it/u=2272690563,768132477&amp;fm=193&amp;f=GIF" alt="喵&gt;0&lt;" loading="lazy"></figure>
 <p>** 这是粗体 **<br>
 <em>这是斜体</em></p>
 <hr>
 <p>这是分割线</p>
+<p>在markdown里，添加 gif动画<br>
+[GIF]<img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2073439784,2147418910&fm=26&gp=0.jpg" /><br>
+记得空格</p>
+<p>[视频]</p>
+<p>[音频]<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=1433338551&auto=0&height=66"></iframe></p>
+<p>[音频]<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="http://music.163.com/outchain/player?type=1&id=91958280&auto=0&height=430"></iframe></p>
 <blockquote>
 <p>Was mich nicht umbringt, macht mich <strong>stärker</strong>.</p>
 </blockquote>
@@ -84,8 +1308,8 @@ def 点赞机():
     </entry>
     <entry>
         <title type="html"><![CDATA[【文字稿及内容提炼】【睡前消息235】春节求财：马前卒工作室的赚钱宣言]]></title>
-        <id>https://aone.zone/post/wen-zi-gao-ji-nei-rong-ti-lian-shui-qian-xiao-xi-235-chun-jie-qiu-cai-ma-qian-zu-gong-zuo-shi-de-zhuan-qian-xuan-yan/</id>
-        <link href="https://aone.zone/post/wen-zi-gao-ji-nei-rong-ti-lian-shui-qian-xiao-xi-235-chun-jie-qiu-cai-ma-qian-zu-gong-zuo-shi-de-zhuan-qian-xuan-yan/">
+        <id>https://aone.github.io/post/wen-zi-gao-ji-nei-rong-ti-lian-shui-qian-xiao-xi-235-chun-jie-qiu-cai-ma-qian-zu-gong-zuo-shi-de-zhuan-qian-xuan-yan/</id>
+        <link href="https://aone.github.io/post/wen-zi-gao-ji-nei-rong-ti-lian-shui-qian-xiao-xi-235-chun-jie-qiu-cai-ma-qian-zu-gong-zuo-shi-de-zhuan-qian-xuan-yan/">
         </link>
         <updated>2021-02-12T11:14:43.000Z</updated>
         <content type="html"><![CDATA[<p>视频简介：马督公对媒体行业经济规则的梦想</p>
@@ -488,9 +1712,46 @@ def 点赞机():
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://aone.github.io/post/about/</id>
+        <link href="https://aone.github.io/post/about/">
+        </link>
+        <updated>2021-02-11T15:35:43.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>aone.zone<br>
+本来想要注册justshare的但已有人在先，所以就换了，但看了一会的,com,cn,cc等，看到了一个.zone，就突发奇想到了aone，也就是我个人翻译的“一个壹”，稍微深度一点的理解就是孤独、孤单之类的内涵，刚好很符合单身的我的状态。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>我是谁呢？罗列一下我的网名吧<br>
+了却浮生渡红尘<br>
+默鱼<br>
+了却浮生渡红尘的默鱼<br>
+白无黦<br>
+白弈黑<br>
+Hojoy-White<br>
+萤星不灭<br>
+白水鉴心</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>以后更新</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>&lt;网易&gt;<br>
+邮箱：yingxingbumiie@163.com<br>
+云音乐：https://music.163.com/#/user/home?id=1677068070<br>
+蜗牛阅读：了却浮生渡红尘的默鱼  （注：搜索里面选择用户栏，一起来共读呀）<br>
+&lt;腾讯&gt;<br>
+微信：bai0shui0jian0xin   (注：是数字0不是字母O)<br>
+QQ：2437255674<br>
+邮箱：2437255674@qq.com<br>
+&lt;哔哩哔哩&gt;<br>
+B站：https://space.bilibili.com/350283749</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【心怡好物】【笔记本篇】【1】]]></title>
-        <id>https://aone.zone/post/xin-yi-hao-wu-bi-ji-ben-pian-1/</id>
-        <link href="https://aone.zone/post/xin-yi-hao-wu-bi-ji-ben-pian-1/">
+        <id>https://aone.github.io/post/xin-yi-hao-wu-bi-ji-ben-pian-1/</id>
+        <link href="https://aone.github.io/post/xin-yi-hao-wu-bi-ji-ben-pian-1/">
         </link>
         <updated>2021-02-11T15:10:03.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
@@ -499,8 +1760,8 @@ def 点赞机():
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://aone.zone/post/hello-gridea/</id>
-        <link href="https://aone.zone/post/hello-gridea/">
+        <id>https://aone.github.io/post/hello-gridea/</id>
+        <link href="https://aone.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aone.zone</id>
     <title>一个壹</title>
-    <updated>2021-02-17T15:32:07.320Z</updated>
+    <updated>2021-02-24T13:55:51.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aone.zone"/>
     <link rel="self" href="https://aone.zone/atom.xml"/>
@@ -16,17 +16,7 @@
         <link href="https://aone.zone/post/huan-15-2021-ban/">
         </link>
         <updated>2021-02-17T15:01:51.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="京东链接">京东链接：</h1>
-<p><a href="https://item.jd.com/10026185666323.html">玩家国度ROG官方旗舰店</a><br>
-单品价格：13999</p>
-<h1 id="华硕官网链接">华硕官网链接：</h1>
-<p><a href="https://www.asus.com.cn/store/product-3827.html#detail">华硕官网链接</a><br>
-不单独出售，只有套装<br>
-套装价格：15249<br>
-其中<br>
-月刃无线版鼠标499.00<br>
-游侠RX红轴 104键799.00</p>
-<h1 id="主要信息">主要信息</h1>
+        <content type="html"><![CDATA[<h1 id="主要信息">主要信息</h1>
 <table>
 <thead>
 <tr>
